@@ -10,7 +10,7 @@ Archieve: Journey 6th july-20th, 31st August --> now Sep 24th. Almost 40days.
 ****Sep 24th:**  I used copilot to change things fully. Which I dont understand what it did to the code and how it did. When it used Dia browser it shows how to do which part. When u write by hand u can at least relate which part u doing and how. I will never want to do again. But Just tring for now as newbee!
 
 
-**Sep 25th: try** Trying to learn short cuts in VS.
+**Sep 25th: try** Trying to learn short cuts in VS. Made to do list. 
 
 
 ## My To-Do List
