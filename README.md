@@ -11,8 +11,10 @@ Archieve: Journey 6th july-20th, 31st August --> now Sep 24th. Almost 40days.
 
 
 **Sep 25th: try** Trying to learn short cuts in VS.
-## My To-Do List
 
-- [ ] Learn JavaScript
-- [x] Finish web design project
+
+### My To-Do List
+
+- [x] Learn JavaScript
+- [] Finish web design project
 - [ ] Start YouTube channel
