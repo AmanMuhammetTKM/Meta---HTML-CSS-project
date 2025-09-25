@@ -15,7 +15,7 @@ Archieve: Journey 6th july-20th, 31st August --> now Sep 24th. Almost 40days.
 
 ## My To-Do List
 
-- [ ] Delete all CSS and start from scratch.
+- [x] Delete all CSS and start from scratch.
 - [ ] Try to learn confusing parts of HTML and order of it
 - [ ] Make Navbar. U gone add burger menu latter
 - [ ] Learn grid-base and flexbox CSS Layout
@@ -25,4 +25,5 @@ Archieve: Journey 6th july-20th, 31st August --> now Sep 24th. Almost 40days.
 - [ ] Footer: half-width 2 colums
 
 - [ ] Make it UX firendly for devicese which responsive
+
 
