@@ -24,7 +24,10 @@ Archieve: Journey 6th july-20th, 31st August --> now Sep 24th. Almost 40days.
 - [ ] For 2nd row create three column layout
 - [ ] Footer: half-width 2 colums
 
-- [ ] Make it UX firendly for devicese which responsive
+
+- [ ] Add Burger menu
+- [ ] Learn how to do slider / Make it phone accesible
+
 
 
 
