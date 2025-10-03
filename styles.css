@@ -1,0 +1,74 @@
+.hamburger {
+    display: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  color: #1a1a1a;
+  background: #ffffff;
+  line-height: 1.5;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 20px;
+  background: #ffffff;
+  border-bottom: 1px solid #e5e7eb; /* subtle divider line */
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+  display: block;
+}
+
+nav ul {
+  list-style: none;   /* remove bullets */
+  display: flex;      /* horizontal layout */
+  align-items: center;
+  gap: 24px;          /* space between links */
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  text-decoration: none;
+  color: #1a1a1a;
+  font-weight: 500;
+  padding: 8px 6px;     /* larger click area */
+  border-radius: 6px;
+  transition: background-color 160ms ease, color 160ms ease;
+}
+
+nav a:hover {
+  background: rgba(44, 122, 63, 0.08); /* soft green hover */
+}
+
+nav a {
+  text-decoration: none;
+  color: #1a1a1a;
+  font-weight: 500;
+  padding: 8px 6px;     /* larger click area */
+  border-radius: 6px;
+  transition: background-color 160ms ease, color 160ms ease;
+}
+
+nav a:hover {
+  background: rgba(44, 122, 63, 0.); /* soft green hover */
+}
+
+nav a:focus-visible {
+  outline: 2px solid #2c7a3f;
+  outline-offset: 2px;
+}
