@@ -17,16 +17,16 @@ Archieve: Journey 6th july-20th, 31st August --> now Sep 24th. Almost 40days.
 
 - [x] Delete all CSS and start from scratch.
 - [x] Try to learn confusing parts of HTML and order of it
-- [ ] Make Navbar. U gone add burger menu latter
-- [ ] Learn grid-base and flexbox CSS Layout
+- [ ] Learn layout Flexbox
+- [ ] Grid system
+- [ ] Make just simple navbar.
 - [ ] Create two rows for the main content
 - [ ] One full width column for the 1st row of the main content
 - [ ] For 2nd row create three column layout
 - [ ] Footer: half-width 2 colums
-
-
 - [ ] Add Burger menu
 - [ ] Learn how to do slider / Make it phone accesible
+
 
 
 
